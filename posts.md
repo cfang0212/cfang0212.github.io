@@ -1,9 +1,8 @@
 ---
 # left blank on purpose
 layout: home
-title: Blog
+title: Projects
 permalink: /posts/
 ---
 
-Share my ideas and thoughts.
-I know there are typos. :)
+Share my past projects.

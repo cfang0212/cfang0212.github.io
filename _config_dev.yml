@@ -15,9 +15,9 @@ url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. 
 version: 1.0.0
 
 # third-party accounts
-github_username: cf384
+github_username: cfang0212
 disqus:
-    shortname: cf384
+    shortname: cfang0212
 
 # Build settings
 markdown: kramdown

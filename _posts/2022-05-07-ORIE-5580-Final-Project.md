@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Paper Review"
-date:   2021-04-07
-categories: review
+title:  "ORIE 5580 Final Project"
+date:   2022-05-07
+categories: final
 ---
 
-Under construction
-
-[Test](/paper_review/test.md)
+This is my final project for ORIE 5580.
+[Project_Report](/documents/projects/ORIE5580_Project_Report.pdf)
